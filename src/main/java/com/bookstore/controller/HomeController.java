@@ -10,10 +10,13 @@ public class HomeController {
 	public String index() {
 		return "index";
 	}
+<<<<<<< HEAD
 	
 @RequestMapping("/myAccount")
 	public String myAccount() {
 		return "myAccount";
 	}
+=======
+>>>>>>> origin/master
 
 }
